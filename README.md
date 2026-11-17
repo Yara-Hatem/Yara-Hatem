@@ -16,12 +16,13 @@ The part of AI that hooked me first was **computer vision**. Getting a model to 
 
 I'm just as happy before any model gets trained. I genuinely love **data science**: digging into a messy dataset, cleaning it up, exploring it with plots, testing a hypothesis, and finding the story the numbers are telling. It's a big part of why I took the Google Data Analytics course, and it shows up in almost every project below.
 
-Lately I've been pulling on a new thread: **generative and agentic AI**. I've fine-tuned a small LLaMA model with QLoRA, and I build AI-powered workflows in **n8n** and **Make** that take care of real, repetitive tasks, with a human still in the loop.
+I also have hands-on experience with **generative AI**: I've fine-tuned LLaMA models with QLoRA and built a multi-agent recommender with CrewAI. I put it to work in AI workflows built with **n8n** and **Make**, and **agentic AI** is where I'm pushing next.
 
 I like projects that go all the way from *"what if…?"* to something that actually runs. Next, I want to grow that into more hands-on industry and research experience.
 
 > **→ focus:** data science · machine learning · deep learning · computer vision\
-> **→ exploring:** generative AI · agentic AI · LLM apps · AI automation\
+> **→ hands-on with:** generative AI · LLM fine-tuning\
+> **→ exploring:** agentic AI · LLM-powered apps · AI automation\
 > **→ open to:** AI/ML and data science roles, internships and research collaborations
 
 <br>
@@ -54,7 +55,7 @@ I like projects that go all the way from *"what if…?"* to something that actua
       <img src="assets/icons/mediapipe.svg" width="40" alt="MediaPipe" title="MediaPipe">
       <br><sub>OpenCV · YOLO (v5 &amp; v8) · MediaPipe · semantic segmentation (FCN, SegFormer, TransFuse)</sub>
     </td>
-    <td width="50%" valign="top"><b>LLMs, NLP &amp; agents</b><br>
+    <td width="50%" valign="top"><b>LLMs, NLP &amp; generative AI</b><br>
       <img src="assets/icons/huggingface.svg" width="40" alt="Hugging Face" title="Hugging Face">
       <img src="assets/icons/crewai.svg" width="40" alt="CrewAI" title="CrewAI">
       <img src="assets/icons/gemini.svg" width="40" alt="Google Gemini" title="Google Gemini">
