@@ -16,4 +16,4 @@
 @keyframes wob{from{transform:rotate(-.9deg)}to{transform:rotate(.9deg)}}
 </style><rect class="swipe" x="6" y="50" width="230" height="24" rx="4" fill="#F6C55A" opacity="0.32"/>
 <text class="hand" x="14" y="64" font-size="56" fill="#F3EDE2">pencilled in</text>
-<text class="handr fade" style="animation-delay:.5s" x="252" y="64" font-size="27" fill="#9EA3B5">(still learning, not an expert yet)</text></svg>
+<text class="handr fade" style="animation-delay:.5s" x="252" y="64" font-size="27" fill="#9EA3B5">(loading... future expert)</text></svg>
