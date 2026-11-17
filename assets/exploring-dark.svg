@@ -18,12 +18,6 @@
 <rect x="18" y="30" width="222" height="210" fill="#000" opacity=".10"/>
 <rect x="14" y="24" width="222" height="210" fill="#EFDF8E"/>
 <rect x="90" y="14" width="70" height="22" fill="#FFFFFF" opacity=".55"/>
-<text class="hand" x="32" y="82" font-size="34.0" fill="#2A2F45">Generative AI</text>
-<path d="M32 92 h163" stroke="#2A2F45" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 5"/>
-<text class="handr" x="32" y="120" font-size="25" fill="#2A2F45" opacity=".85">fine-tuning small</text><text class="handr" x="32" y="148" font-size="25" fill="#2A2F45" opacity=".85">LLMs with QLoRA</text><text class="handr" x="32" y="176" font-size="25" fill="#2A2F45" opacity=".85">and prompt tuning</text></g></g><g transform="rotate(1.6 370 20)"><g class="wob" style="animation-delay:-1.3s">
-<rect x="264" y="30" width="222" height="210" fill="#000" opacity=".10"/>
-<rect x="260" y="24" width="222" height="210" fill="#EFC0B5"/>
-<rect x="336" y="14" width="70" height="22" fill="#FFFFFF" opacity=".55"/>
 <text class="hand" x="278" y="82" font-size="34.0" fill="#2A2F45">Agentic AI</text>
 <path d="M278 92 h127" stroke="#2A2F45" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 5"/>
 <text class="handr" x="278" y="120" font-size="25" fill="#2A2F45" opacity=".85">agents that can</text><text class="handr" x="278" y="148" font-size="25" fill="#2A2F45" opacity=".85">plan, use tools and</text><text class="handr" x="278" y="176" font-size="25" fill="#2A2F45" opacity=".85">take actions</text></g></g><g transform="rotate(-1.2 616 20)"><g class="wob" style="animation-delay:-2.6s">
