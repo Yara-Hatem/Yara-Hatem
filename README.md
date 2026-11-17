@@ -191,10 +191,10 @@ I like projects that go all the way from *"what if…?"* to something that actua
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/exploring-dark.svg">
-  <img alt="Currently exploring: Generative AI, Agentic AI, AI automation and LLM-powered apps" src="assets/exploring-light.svg" width="100%">
+  <img alt="Currently exploring: Agentic AI, AI automation and LLM-powered apps" src="assets/exploring-light.svg" width="100%">
 </picture>
 
-These are written in pencil on purpose. My strongest foundations are classic ML, deep learning and computer vision; the notes above are what I'm actively learning and building with right now. My first steps are already on this page: the LLaMA fine-tuning project and the n8n and Make automations.
+These are written in pencil on purpose. My strongest foundations are classic ML, deep learning and computer vision, the notes above are what I'm actively growing at, learning and building with right now. 
 
 <br>
 
